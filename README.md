@@ -2,6 +2,7 @@
 
 Build a REST API with Node JS and Express,
 we will create a Node JS and Express JS CRUD REST API.
+![Project Overview](01.png)
 
 
 ## Installation
